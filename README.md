@@ -145,7 +145,13 @@ This app uses data from [NewsAPI.org](https://newsapi.org/) and a custom engagem
 
 ## **Screenshots**
 
-(Add screenshots of the app in action, including the list view, article detail view, and error handling examples.)
+Here are some screenshots of the app in action, including the list view, article detail view, and error handling examples:
+![Simulator Screenshot - iPhone 15 Pro - 2025-01-05 at 02 26 32](https://github.com/user-attachments/assets/89178418-e944-47f2-9d61-d5ae82dd09ae)
+![Simulator Screenshot - iPhone 15 Pro - 2025-01-05 at 01 43 19](https://github.com/user-attachments/assets/c9ac8ce8-cb81-481b-b313-6d0f8bfcff8c)
+![Simulator Screenshot - iPhone 15 Pro - 2025-01-05 at 01 42 37](https://github.com/user-attachments/assets/fefcf700-aa6a-4aba-8d69-08c6dab1e73a)
+![Simulator Screenshot - iPhone 15 Pro - 2025-01-05 at 01 41 51](https://github.com/user-attachments/assets/517de4b1-597b-4206-9c09-abcf6e4b2fb6)
+![Simulator Screenshot - iPhone 15 Pro - 2025-01-05 at 01 41 35](https://github.com/user-attachments/assets/a52ac528-1c71-4cca-91db-a993a3ec1cb0)
+![Simulator Screenshot - iPhone 15 Pro - 2025-01-05 at 01 41 26](https://github.com/user-attachments/assets/95918c1e-4f88-4ba9-af08-7290aca6f055)
 
 
 ---
